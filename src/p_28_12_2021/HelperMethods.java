@@ -1,6 +1,6 @@
 package p_28_12_2021;
 
-public class Zadatak1 {
+public class HelperMethods {
 
 	public static void main(String[] args) {
 //		Napisati metodu koja stampa niz. Metoda kao parametar prima niz brojeva.
